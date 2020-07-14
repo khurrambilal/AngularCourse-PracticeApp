@@ -1,4 +1,4 @@
-export interface friends {
+export interface Hobby {
   id: number;
   artist: string;
   albumName: string;
